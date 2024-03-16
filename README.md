@@ -1,1 +1,1 @@
-# llm-prompt-recovery
+# AI hackathon in 2024
